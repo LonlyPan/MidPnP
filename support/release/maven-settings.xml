@@ -1,0 +1,1 @@
+<settings><mirrors><mirror><id>fast-openpnp</id><mirrorOf>openpnp</mirrorOf><url>https://raw.githubusercontent.com/openpnp/openpnp-maven-repo/develop</url></mirror></mirrors></settings>
